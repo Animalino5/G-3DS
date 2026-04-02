@@ -9,7 +9,7 @@ G-3DS is a Garry's Mod **DEMAKE** for the 3DS!
 In Version 1, it includes 8 ITEMS:
 * A cardboard box
 * An explodable Barrel (Explodes if you shoot it!)
-* A toy car (That you can ride with SELECT)
+* A toy car (That you can ride with Dpad LEFT)
 * A bouncing ball
 * A potion (That when thrown at props, makes them fly for 5 seconds!)
 * A frog chair
