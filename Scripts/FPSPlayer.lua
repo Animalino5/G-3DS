@@ -50,7 +50,7 @@ end
 function FPSPlayer:Tick(deltaTime)
     self.enterCarCooldown = math.max(0, self.enterCarCooldown - deltaTime)
 
-    if Input.IsGamepadButtonJustDown(Gamepad.Select) then
+    if Input.IsGamepadButtonJustDown(Gamepad.Left) then
         if self.inCar then
             self:ExitCar()
         else
